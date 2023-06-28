@@ -1,6 +1,6 @@
 # Programming in C
 ## Chapter 5
-### Question 1: Part 5
+### Question 1: Part 6
 
 This problem is from chapter 5 of the textbook, it is to print the numbers 1-5 using a "while" loop.[^1]
 
